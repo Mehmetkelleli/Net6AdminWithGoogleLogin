@@ -1,0 +1,132 @@
+﻿@model RoleViewModel
+@{
+    Layout = "_LayoutRoot";
+}
+<form asp-controller="root" asp-action="RoleUpdate" method="post" class="invoice-repeater">
+ <div class="content-wrapper">
+            <div class="content-header row">
+                <div class="content-header-left col-md-9 col-12 mb-2">
+                    <div class="row breadcrumbs-top">
+                        <div class="col-12">
+                            <h2 class="content-header-title float-left mb-0">Role Update</h2>
+                            <div class="breadcrumb-wrapper">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a asp-action="index">Home</a>
+                                    </li>
+                                    <li class="breadcrumb-item"><a href="#">Role Update</a>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-header-right text-md-right col-md-3 col-12 d-md-block d-none">
+                    <div class="form-group breadcrumb-right">
+                        <div class="dropdown">
+                            <button class="btn-icon btn btn-primary btn-round btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i data-feather="grid"></i></button>
+                            <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="app-todo.html"><i class="mr-1" data-feather="check-square"></i><span class="align-middle">Todo</span></a><a class="dropdown-item" href="app-chat.html"><i class="mr-1" data-feather="message-square"></i><span class="align-middle">Chat</span></a><a class="dropdown-item" href="app-email.html"><i class="mr-1" data-feather="mail"></i><span class="align-middle">Email</span></a><a class="dropdown-item" href="app-calendar.html"><i class="mr-1" data-feather="calendar"></i><span class="align-middle">Calendar</span></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-body">
+                <section class="form-control-repeater">
+                    <div class="row">
+                        <!-- Invoice repeater -->
+                        <div class="col-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4 class="card-title">Invoice</h4>
+                                </div>
+                                <div class="card-body">
+                                  
+                                        <div data-repeater-list="invoice">
+                                            <div data-repeater-item>
+                                                <div class="row">
+                                                    <div class="col-md-4 col-12">
+                                                        <div class="form-group">
+                                                            <label for="itemname">Role Name</label>
+                                                            <input asp-for="RoleId" value="@Model.RoleId" type="hidden" class="form-control" id="itemname" aria-describedby="itemname"  />
+                                                            <input asp-for="RoleName" value="@Model.RoleName"  class="form-control" id="itemname" aria-describedby="itemname"  />
+                                                        </div>
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <button class="btn btn-icon btn-primary" type="submit" data-repeater-create>
+                                                            <i data-feather="plus" class="mr-25"></i>
+                                                            <span>Update Role</span>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                    </div>
+                                                    <div class="col-md-8 col-12 mb-50">
+                                                        <div class="form-group">
+                                                    <div class="card-datatable table-responsive pt-0">
+                                                        <h4>Role User</h4>
+                                                        <table class="dt-multilingual table">
+                                                            <thead class="thead-light">
+                                                                <tr>
+                                                                    <th></th>
+                                                                    <th>User Img</th>
+                                                                    <th>Name Subname</th>
+                                                                    <th>E Mail</th>
+                                                                    <th>Role User Count</th>
+                                                                    <th>Actions</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                @foreach (var item in Model.RoleUsers)
+                                                                {
+                                                                    <tr>
+                                                                        <td><input type="checkbox" value="@item.Id" name="NonUserAdd"></td>
+                                                                        <td><img src="~/Files/@item.ImgUrl"></td>
+                                                                        <td>@item.UserName</td>
+                                                                        <td>@item.Email</td>
+                                                                        <td>@item.Active</td>
+                                                                        <td><a asp-controller="root" class="btn btn-primary mr-1 data-submit" asp-action="RoleUpdate" asp-route-id="@item.Id">User View</a></td>
+                                                                    </tr>
+                                                                }
+                                                            </tbody>
+                                                        </table>
+                                                        <h4>Role Non User</h4>
+                                                        <table class="dt-multilingual table">
+                                                            <thead class="thead-light">
+                                                                <tr>
+                                                                    <th></th>
+                                                                    <th>User Img</th>
+                                                                    <th>Name Subname</th>
+                                                                    <th>E Mail</th>
+                                                                    <th>Role User Count</th>
+                                                                    <th>Actions</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                @foreach (var item in Model.NonUsers)
+                                                                {
+                                                                    <tr>
+                                                                        <td><input type="checkbox" value="@item.Id" name="RoleUserAdd"></td>
+                                                                        <td><img src="~/Files/@item.ImgUrl"></td>
+                                                                        <td>@item.UserName</td>
+                                                                        <td>@item.Email</td>
+                                                                        <td>@item.Active</td>
+                                                                        <td><a asp-controller="root" class="btn btn-primary mr-1 data-submit" asp-action="RoleUpdate" asp-route-id="@item.Id">User View</a></td>
+                                                                    </tr>
+                                                                }
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <hr />
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Invoice repeater -->
+                    </div>
+                </section>
+
+            </div>
+        </div>
+</form>

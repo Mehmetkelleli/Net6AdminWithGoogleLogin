@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ui
+build_property.RootNamespace = Ui
+build_property.ProjectDir = C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Ui\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Ui
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Home/Cv.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Home/PortofolioDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0b2ZvbGlvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Root/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Root/RoleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vdFxSb2xlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Root/RoleUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vdFxSb2xlVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Root/SiteConfig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vdFxTaXRlQ29uZmlnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Root/UserEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vdFxVc2VyRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Root/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vdFxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Shared/Components/Cv/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3ZcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Shared/Components/Navbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Shared/_LayoutCv.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Shared/_LayoutRoot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRSb290LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/BlogAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCbG9nQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/BlogCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCbG9nQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/CvProcess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDdlByb2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/Icon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJY29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/PortofolioAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQb3J0b2ZvbGlvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/PortofolioCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQb3J0b2ZvbGlvQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/PortofolioDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQb3J0b2ZvbGlvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/PortofolioList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQb3J0b2ZvbGlvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/User/UserSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyU2V0dGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Kelleli/Desktop/AdminDashboard/Web/Ui/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-drx7r62735

@@ -1,0 +1,70 @@
+﻿@model List<UserViewModel>
+@{
+    Layout = "_LayoutRoot";
+}
+<div class="content-wrapper">
+    <div class="content-header row">
+    </div>
+    <div class="content-body">
+        <!-- users list start -->
+        <section class="app-user-list">
+            <div class="card">
+                <h5 class="card-header">Search Filter</h5>
+                <div class="d-flex justify-content-between align-items-center mx-50 row pt-0 pb-2">
+                    <div class="col-md-4 user_role"></div>
+                    <div class="col-md-4 user_plan"></div>
+                    <div class="col-md-4 user_status"></div>
+                </div>
+            </div>
+            <!-- users filter end -->
+            <!-- list section start -->
+            @if (Model.Count() == 0)
+            {
+
+                <div class="alert alert-danger">No User</div>
+
+            }
+            <div class="card">
+                <div class="card-datatable table-responsive pt-0">
+                    <table class="table">
+                        <thead class="thead-light">
+                            <tr>
+                                <th></th>
+                                <th>Image</th>
+                                <th>User</th>
+                                <th>Email</th>
+                                <th>Role</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th></th>
+                                    <th><img src="~/Files/@item.User.ImgUrl" width="30"></th>
+                                    <th>@item.User.UserName</th>
+                                    <th>@item.User.Email</th>
+                                    <th>
+                                        @foreach (var i in item.Roles)
+                                        {
+                                            <p class="text-muted">@i</p>
+                                        }
+                                    </th>
+                                    <th>@(item.User.Active ? Html.Raw("<button class='btn btn-success'>True<button>") : Html.Raw("<button class='btn btn-danger'>False<button>"))</th>
+                                    <th><a class="btn btn-primary mr-1 data-submit">User View</a><a class="btn btn-primary mr-1 data-submit" asp-controller="root" asp-action="UserEdit" asp-route-id="@item.User.Id">User Edit</a></th>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <!-- Modal to add new user starts-->
+                <!-- Modal to add new user Ends-->
+            </div>
+            <!-- list section end -->
+        </section>
+        <!-- users list ends -->
+
+    </div>
+</div>

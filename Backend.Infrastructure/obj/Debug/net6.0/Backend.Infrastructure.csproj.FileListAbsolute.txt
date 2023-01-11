@@ -1,0 +1,51 @@
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.deps.json
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Application.pdb
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\refint\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\Mehmet Kelleli\Desktop\1\Backend\Backend.Infrastructure\obj\Debug\net6.0\ref\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.deps.json
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Application.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\bin\Debug\net6.0\Backend.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\refint\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\Mehmet Kelleli\Desktop\Web Ui Files\CvProjesi\Backend\Backend.Infrastructure\obj\Debug\net6.0\ref\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.deps.json
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Application.pdb
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\bin\Debug\net6.0\Backend.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\refint\Backend.Infrastructure.dll
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.pdb
+C:\Users\Mehmet Kelleli\Desktop\AdminDashboard\Web\Backend.Infrastructure\obj\Debug\net6.0\ref\Backend.Infrastructure.dll
